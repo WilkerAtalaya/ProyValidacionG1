@@ -1,0 +1,4 @@
+Cuenta ADMINISTRADOR:
+
+         usuario: wilker.atalaya
+         contraseña: admin6
